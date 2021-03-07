@@ -10,6 +10,7 @@
     height: 50px;
     width: 50px;
     border: 0.2px solid gray;
+    border-radius: 100%;
 }
 
 .available {
@@ -17,7 +18,7 @@
 }
 
 .playerOne{
-    background-color: rebeccapurple;
+    background-color: red;
 }
 
 .playerTwo {
